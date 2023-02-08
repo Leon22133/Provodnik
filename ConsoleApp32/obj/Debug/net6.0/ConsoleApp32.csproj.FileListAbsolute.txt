@@ -1,0 +1,15 @@
+D:\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.exe
+D:\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.deps.json
+D:\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.runtimeconfig.json
+D:\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.dll
+D:\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.pdb
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.AssemblyReference.cache
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfoInputs.cache
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfo.cs
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.CoreCompileInputs.cache
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.dll
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\refint\ConsoleApp32.dll
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.pdb
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.genruntimeconfig.cache
+D:\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ref\ConsoleApp32.dll
